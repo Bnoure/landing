@@ -1,0 +1,14 @@
+.container > .argument {
+  border: 1px solid white;
+  box-shadow: 10rem;
+  height: 300px;
+  width: 100px;
+  display: flex;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.container .argument h3 {
+  font-size: 100px;
+  color: black;
+}

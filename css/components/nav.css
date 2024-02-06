@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 90px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  order: 2;
+}
+
+nav ul a {
+  color: #573223;
+  font-size: 1.6rem;
+  margin-right: 1em;
+}
